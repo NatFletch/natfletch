@@ -3,6 +3,9 @@ Currently I am just working learning the most amount of coding I can to pursue a
  - [FBLA-Programming-2023](https://github.com/NatFletch/FBLA-Programming-2023): A project in FBLA where I have to create an application that tracks my school's attendance at school events such as sports games and assemblies.
  - [22x](https://github.com/frc1806/22x): A FIRST robotics robot that is made by entirely of students where mentors do not dictate that happens much to the design process. This is an offseason project and it is not based off of any specific game.
 
+## Archives:
+ - [Epic Gamer](https://github.com/NatFletch/Epic-Gamer): This is a discord bot I stopped working on. Feel free to fork it and use it just be sure to give credit to me if you choose to. For the most part it should work fine, there are only database issues because I made it specifically for my computer. Eventually I will go back through this repo and update it to be more usable by everyone.
+
 
 ## Learning:
 Right now I plan on increasing my Python skills mainly. I also try to increase C++ and Java skills and eventually want to start learning Javascript so I can learn how to make webpages that aren't static and electron apps.
