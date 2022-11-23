@@ -4,7 +4,7 @@ Currently I am just working learning the most amount of coding I can to pursue a
  - [22x](https://github.com/frc1806/22x): A FIRST robotics robot that is made by entirely of students where mentors do not dictate that happens much to the design process. This is an offseason project and it is not based off of any specific game.
 
 ## Archives:
- - [Epic Gamer](https://github.com/NatFletch/Epic-Gamer): This is a discord bot I stopped working on. Feel free to fork it and use it just be sure to give credit to me if you choose to. For the most part it should work fine, there are only database issues because I made it specifically for my computer. Eventually I will go back through this repo and update it to be more usable by everyone.
+ - [Epic Gamer](https://github.com/NatFletch/Epic-Gamer): This is a discord bot I stopped working on. Feel free to fork it and use it just be sure to give credit to me if you choose to. For the most part it should work fine, there are only database issues because I made it specifically for my computer. If you want a bot like this I will be working on a rewritten version of this bot from scratch eventually.
 
 
 ## Learning:
