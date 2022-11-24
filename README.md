@@ -14,4 +14,4 @@ Right now I plan on increasing my Python skills mainly. I also try to increase C
 If you wish to help me out I would love to know what kind of learning resources you use to learn new languages, the kinds of libraries you use for `x` functionality, or any code suggestions you would recommend. 
 
 ## How to reach me:
-You can contact me via email listed on my profile (nathfletche@gmail.com) or on discord (NatFletch#0891)
+You can contact me via email listed on my profile (nathfletche@gmail.com) or on discord (NatFletch#1554)
