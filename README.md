@@ -1,8 +1,11 @@
+# NatFletch
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=natfletch&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+
 ## Current Works:
 Currently I am just working learning the most amount of coding I can to pursue a professional career over programming. Here are my projects that I started and still working on
 
- - [FBLA-Programming-2023](https://github.com/NatFletch/FBLA-Programming-2023): A project in FBLA where I have to create an application that tracks my school's attendance at school events such as sports games and assemblies.
- - [ChargedUp-1806](https://github.com/frc1806/FBLA-Programming-2023): 2023 FRC Robot. Current contributions include the drive train, the switch from Timed Robot to command robot, documentation, adopted 1678's shuffleboard system but made it for 1806's interests.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=frc1806&repo=chargedup-1806)](https://github.com/frc1806/ChargedUp-1806)
+ - Also there's another project Im working on but source will be released at a later date.
 
 ## Archives:
  - [Epic Gamer](https://github.com/NatFletch/Epic-Gamer): This is a discord bot I stopped working on. Feel free to fork it and use it just be sure to give credit to me if you choose to. For the most part it should work fine, there are only database issues because I made it specifically for my computer. If you want a bot like this I will be working on a rewritten version of this bot from scratch eventually.
