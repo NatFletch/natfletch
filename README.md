@@ -1,7 +1,8 @@
 ## Current Works:
 Currently I am just working learning the most amount of coding I can to pursue a professional career over programming. Here are my projects that I started and still working on
+
  - [FBLA-Programming-2023](https://github.com/NatFletch/FBLA-Programming-2023): A project in FBLA where I have to create an application that tracks my school's attendance at school events such as sports games and assemblies.
- - [22x](https://github.com/frc1806/22x): A FIRST robotics robot that is made by entirely of students where mentors do not dictate that happens much to the design process. This is an offseason project and it is not based off of any specific game.
+ - [ChargedUp-1806](https://github.com/frc1806/FBLA-Programming-2023): 2023 FRC Robot. Current contributions include the drive train, the switch from Timed Robot to command robot, documentation, adopted 1678's shuffleboard system but made it for 1806's interests.
 
 ## Archives:
  - [Epic Gamer](https://github.com/NatFletch/Epic-Gamer): This is a discord bot I stopped working on. Feel free to fork it and use it just be sure to give credit to me if you choose to. For the most part it should work fine, there are only database issues because I made it specifically for my computer. If you want a bot like this I will be working on a rewritten version of this bot from scratch eventually.
