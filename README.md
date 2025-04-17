@@ -4,6 +4,8 @@
 Hello! My name is Nathan Fletcher and welcome to my Github page!
 
 Here are some projects I've worked on:
+## Personal Projects
+<a href="https://github.com/NatFletch/Epic-Gamer-2">Epic Gamer 2</a>: This is a discord bot which is a rewrite of my first ever discord bot. This was a huge learning experience for me as this was only my second ever discord bot project (first being my first discord bot) and allowed me to learn valuable Python and SQL skills.
 ## Robotics
 *First Robotics Team 1806*
 
