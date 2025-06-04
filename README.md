@@ -1,9 +1,10 @@
 # NatFletch
-*2024 Amazon Future Engineer Scholar*
-
 Hello! My name is Nathan Fletcher and welcome to my Github page!
 
-Here are some projects I've worked on:
+## Work Experience
+- Amazon (May 2025-August 2025): Software Development Engineer Intern
+## Awards and Recognitions
+*2024 Amazon Future Engineer Scholar*
 ## Personal Projects
 <a href="https://github.com/NatFletch/Epic-Gamer-2">Epic Gamer 2</a>: This is a discord bot which is a rewrite of my first ever discord bot. This was a huge learning experience for me as this was only my second ever discord bot project (first being my first discord bot) and allowed me to learn valuable Python and SQL skills.
 ## Robotics
